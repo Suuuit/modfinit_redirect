@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://modfinit.etsy.com/",
+      "permanent": true
+    }
+  ]
+}
